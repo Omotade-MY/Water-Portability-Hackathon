@@ -1,5 +1,5 @@
 # Water-Portability-Hackathon
-IndabaX 2021 Hackathon Nigeria on Zindi 1st Place Solution
+### IndabaX 2021 Hackathon Nigeria on Zindi (1st Place Solution)
 
 ***Water Portatbility Hackathon: IndabaX 2021***
 
